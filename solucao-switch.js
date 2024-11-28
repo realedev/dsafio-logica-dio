@@ -1,4 +1,4 @@
-let heroi = {
+const heroi = {
     nome: "Fade",
     xp: 1337,
     nivel: "",
